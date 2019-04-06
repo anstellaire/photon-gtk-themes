@@ -1,11 +1,21 @@
 # Photon GTK Themes
 
 Themes with different color variations of [Arc GTK Theme](https://github.com/horst3180/arc-theme).
-Themes were tested in GTK 3.24.
+Themes were tested on GTK 3.24.
 
 Avaliable colors: 
 
 ![](https://raw.githubusercontent.com/anstellaire/photon-gtk-themes/screenshots/screenshots/colors.png)
+
+## Requirements
+
+* GTK 3 (tested on 3.24)
+* The murrine engine (the package name depends on the distribution):
+  * `gtk2-engine-murrine` (openSUSE)
+  * `gtk2-engines-murrine` (Debian, Ubuntu, elementary OS)
+  * `gtk-engine-murrine` (Arch Linux)
+  * `gtk-engines-murrine` (Gentoo)
+  * `gtk-murrine-engine` (Fedora)
 
 ## Installation
 
